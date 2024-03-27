@@ -1,0 +1,166 @@
+h1{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 35px;
+    color: rgb(227, 238, 201);
+    padding: 40px;
+}
+
+body{
+    background-color: rgb(5, 17, 26);
+}
+
+.MenuWrap {
+    background-color: rgb(17, 1, 37);
+    font-family: 'Oswald', sans-serif;
+    font-size: 1rem;
+    min-height: 2.75rem;
+    display: flex;
+    align-items: center;
+    padding: 0 1rem;
+   }
+
+   .ListItem,
+   .LastItem {
+    color: #ebebeb;
+    text-decoration: none;
+    
+   }
+
+   .ListItem {
+    margin-right: 1rem;
+   }
+   
+   .LastItem {
+    margin-left: auto;
+    background-color: rgb(212, 191, 7);
+    border-radius: 4px;
+    padding: 22px;
+   }
+
+   hr{
+    color: rgb(218, 228, 206);
+    width: 200px;
+    margin-left: 10px;
+    align-items: 20px;
+   }
+
+   p.hone{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    color: rgb(200, 200, 201);
+    margin: 3rem;
+   }
+
+   h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 6rem;
+    color:rgb(200, 200, 201);
+    width: 800px;
+    margin: 3rem;
+    line-height: 80px;
+    display: inline-block;
+    margin-right: 6rem;
+   }
+
+   img{
+    width: 25rem;
+    height: 25rem;
+    border-radius: 1rem;
+    border: 2px solid rgb(231, 247, 5);
+    /* box-shadow: 10rem 10rem 5rem solid rgb(225, 255, 1); */
+    }
+
+   p.About{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    color: rgb(212, 191, 7);
+    margin-top: 20rem;
+    padding-left: 3rem;
+    }
+
+    
+   h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 6rem;
+    color:rgb(200, 200, 201);
+    width: 700px;
+    margin: 3rem;
+    line-height: 90px;
+    /* border: 1px solid white; */
+    display: inline-block;
+    position: relative;
+   }
+
+   p.Inspire{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 550px;
+    color: white;
+    font-style: justify;
+    /* border: 2px  solid yellow; */
+    display: inline-block;
+    line-height: 2rem;
+    position: absolute;
+    text-align: justify;
+    /* margin-top: 20rem; */
+
+   }
+
+   p.more{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1rem;
+    color:rgb(200, 200, 201);
+    border-radius: 1rem;
+    border: 2px solid white;
+    padding: 20px;
+    width: 15rem;
+    text-align: center;
+    
+    }
+
+    .more:hover {
+        opacity: 0.7;
+    }    
+    
+
+    .fa {
+        padding: 10px;
+        font-size: 30px;
+        width: 30px;
+        text-align: center;
+        text-decoration: none;
+      }
+
+      .fa:hover {
+        opacity: 0.7;
+    }      
+
+    .fa-facebook {
+        background: #062871;
+        color: white;
+        border-radius: 10px;
+        
+    }
+    
+    .fa-twitter {
+        background: #0155fd;
+        color: white;
+        border-radius: 10px;
+        
+    }
+    
+    .fa-instagram {
+        background: #530356;
+        color: white;
+        border-radius: 10px;
+        
+      }
+
+    div.icon{
+        margin: 3rem;
+        }
+
+    
+
+        
+      
